@@ -1,0 +1,310 @@
+{
+  "rice": {
+    "cost_per_acre": 17000,
+    "yield_per_acre": 2800,
+    "market_price_per_kg": 24,
+    "fertilizer_schedule": {
+      "Basal": "DAP 30 kg/acre + MOP 15 kg/acre + Urea 20 kg/acre",
+      "Vegetative": "Urea 30 kg/acre (after 30 days)",
+      "Flowering": "Urea 15 kg/acre + Zinc spray"
+    },
+    "water_schedule": {
+      "Frequency": "Every 2-4 days",
+      "Stages": "Continuous moisture needed. Drain slightly before harvest."
+    }
+  },
+  "maize": {
+    "cost_per_acre": 10000,
+    "yield_per_acre": 1700,
+    "market_price_per_kg": 55,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "chickpea": {
+    "cost_per_acre": 11200,
+    "yield_per_acre": 2000,
+    "market_price_per_kg": 58,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "kidneybeans": {
+    "cost_per_acre": 12400,
+    "yield_per_acre": 2300,
+    "market_price_per_kg": 61,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "pigeonpeas": {
+    "cost_per_acre": 12000,
+    "yield_per_acre": 2200,
+    "market_price_per_kg": 60,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "mothbeans": {
+    "cost_per_acre": 11600,
+    "yield_per_acre": 2100,
+    "market_price_per_kg": 59,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "mungbean": {
+    "cost_per_acre": 11200,
+    "yield_per_acre": 2000,
+    "market_price_per_kg": 58,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "blackgram": {
+    "cost_per_acre": 11600,
+    "yield_per_acre": 2100,
+    "market_price_per_kg": 59,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "lentil": {
+    "cost_per_acre": 10400,
+    "yield_per_acre": 1800,
+    "market_price_per_kg": 56,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "pomegranate": {
+    "cost_per_acre": 28300,
+    "yield_per_acre": 5650,
+    "market_price_per_kg": 67,
+    "fertilizer_schedule": {
+      "Basal": "FYM 5 tons/acre + SSP 50 kg/acre + MOP 30 kg/acre",
+      "Vegetative": "Urea 25 kg/acre (Spring)",
+      "Flowering": "Foliar Boron + Calcium during fruit set"
+    },
+    "water_schedule": {
+      "Frequency": "Every 7-12 days",
+      "Stages": "Critical during fruit development, reduce before ripening."
+    }
+  },
+  "banana": {
+    "cost_per_acre": 18000,
+    "yield_per_acre": 3200,
+    "market_price_per_kg": 26,
+    "fertilizer_schedule": {
+      "Basal": "DAP 30 kg/acre + MOP 15 kg/acre + Urea 20 kg/acre",
+      "Vegetative": "Urea 30 kg/acre (after 30 days)",
+      "Flowering": "Urea 15 kg/acre + Zinc spray"
+    },
+    "water_schedule": {
+      "Frequency": "Every 2-4 days",
+      "Stages": "Continuous moisture needed. Drain slightly before harvest."
+    }
+  },
+  "mango": {
+    "cost_per_acre": 26500,
+    "yield_per_acre": 4750,
+    "market_price_per_kg": 55,
+    "fertilizer_schedule": {
+      "Basal": "FYM 5 tons/acre + SSP 50 kg/acre + MOP 30 kg/acre",
+      "Vegetative": "Urea 25 kg/acre (Spring)",
+      "Flowering": "Foliar Boron + Calcium during fruit set"
+    },
+    "water_schedule": {
+      "Frequency": "Every 7-12 days",
+      "Stages": "Critical during fruit development, reduce before ripening."
+    }
+  },
+  "grapes": {
+    "cost_per_acre": 26800,
+    "yield_per_acre": 4900,
+    "market_price_per_kg": 57,
+    "fertilizer_schedule": {
+      "Basal": "FYM 5 tons/acre + SSP 50 kg/acre + MOP 30 kg/acre",
+      "Vegetative": "Urea 25 kg/acre (Spring)",
+      "Flowering": "Foliar Boron + Calcium during fruit set"
+    },
+    "water_schedule": {
+      "Frequency": "Every 7-12 days",
+      "Stages": "Critical during fruit development, reduce before ripening."
+    }
+  },
+  "watermelon": {
+    "cost_per_acre": 12000,
+    "yield_per_acre": 2200,
+    "market_price_per_kg": 60,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "muskmelon": {
+    "cost_per_acre": 11600,
+    "yield_per_acre": 2100,
+    "market_price_per_kg": 59,
+    "fertilizer_schedule": {
+      "Basal": "DAP 20 kg/acre + Rhizobium culture",
+      "Vegetative": "Urea 10 kg/acre (if required)",
+      "Flowering": "2% DAP spray at pod formation"
+    },
+    "water_schedule": {
+      "Frequency": "Every 15-20 days",
+      "Stages": "Crucial at flowering and pod filling stages."
+    }
+  },
+  "apple": {
+    "cost_per_acre": 26500,
+    "yield_per_acre": 4750,
+    "market_price_per_kg": 55,
+    "fertilizer_schedule": {
+      "Basal": "FYM 5 tons/acre + SSP 50 kg/acre + MOP 30 kg/acre",
+      "Vegetative": "Urea 25 kg/acre (Spring)",
+      "Flowering": "Foliar Boron + Calcium during fruit set"
+    },
+    "water_schedule": {
+      "Frequency": "Every 7-12 days",
+      "Stages": "Critical during fruit development, reduce before ripening."
+    }
+  },
+  "orange": {
+    "cost_per_acre": 26800,
+    "yield_per_acre": 4900,
+    "market_price_per_kg": 57,
+    "fertilizer_schedule": {
+      "Basal": "FYM 5 tons/acre + SSP 50 kg/acre + MOP 30 kg/acre",
+      "Vegetative": "Urea 25 kg/acre (Spring)",
+      "Flowering": "Foliar Boron + Calcium during fruit set"
+    },
+    "water_schedule": {
+      "Frequency": "Every 7-12 days",
+      "Stages": "Critical during fruit development, reduce before ripening."
+    }
+  },
+  "papaya": {
+    "cost_per_acre": 26800,
+    "yield_per_acre": 4900,
+    "market_price_per_kg": 57,
+    "fertilizer_schedule": {
+      "Basal": "FYM 5 tons/acre + SSP 50 kg/acre + MOP 30 kg/acre",
+      "Vegetative": "Urea 25 kg/acre (Spring)",
+      "Flowering": "Foliar Boron + Calcium during fruit set"
+    },
+    "water_schedule": {
+      "Frequency": "Every 7-12 days",
+      "Stages": "Critical during fruit development, reduce before ripening."
+    }
+  },
+  "coconut": {
+    "cost_per_acre": 27100,
+    "yield_per_acre": 5050,
+    "market_price_per_kg": 59,
+    "fertilizer_schedule": {
+      "Basal": "FYM 5 tons/acre + SSP 50 kg/acre + MOP 30 kg/acre",
+      "Vegetative": "Urea 25 kg/acre (Spring)",
+      "Flowering": "Foliar Boron + Calcium during fruit set"
+    },
+    "water_schedule": {
+      "Frequency": "Every 7-12 days",
+      "Stages": "Critical during fruit development, reduce before ripening."
+    }
+  },
+  "cotton": {
+    "cost_per_acre": 18000,
+    "yield_per_acre": 3200,
+    "market_price_per_kg": 26,
+    "fertilizer_schedule": {
+      "Basal": "DAP 30 kg/acre + MOP 15 kg/acre + Urea 20 kg/acre",
+      "Vegetative": "Urea 30 kg/acre (after 30 days)",
+      "Flowering": "Urea 15 kg/acre + Zinc spray"
+    },
+    "water_schedule": {
+      "Frequency": "Every 2-4 days",
+      "Stages": "Continuous moisture needed. Drain slightly before harvest."
+    }
+  },
+  "jute": {
+    "cost_per_acre": 17000,
+    "yield_per_acre": 2800,
+    "market_price_per_kg": 24,
+    "fertilizer_schedule": {
+      "Basal": "DAP 30 kg/acre + MOP 15 kg/acre + Urea 20 kg/acre",
+      "Vegetative": "Urea 30 kg/acre (after 30 days)",
+      "Flowering": "Urea 15 kg/acre + Zinc spray"
+    },
+    "water_schedule": {
+      "Frequency": "Every 2-4 days",
+      "Stages": "Continuous moisture needed. Drain slightly before harvest."
+    }
+  },
+  "coffee": {
+    "cost_per_acre": 26800,
+    "yield_per_acre": 4900,
+    "market_price_per_kg": 57,
+    "fertilizer_schedule": {
+      "Basal": "FYM 5 tons/acre + SSP 50 kg/acre + MOP 30 kg/acre",
+      "Vegetative": "Urea 25 kg/acre (Spring)",
+      "Flowering": "Foliar Boron + Calcium during fruit set"
+    },
+    "water_schedule": {
+      "Frequency": "Every 7-12 days",
+      "Stages": "Critical during fruit development, reduce before ripening."
+    }
+  }
+}
