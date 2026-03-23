@@ -1,1 +1,6 @@
 backend/soil_app.db
+venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
